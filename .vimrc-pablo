@@ -1,3 +1,5 @@
 set paste
 set mouse=r
 colorscheme pablo
+syntax on
+set nu
