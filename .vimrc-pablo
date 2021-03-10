@@ -3,3 +3,8 @@ set mouse=r
 colorscheme pablo
 syntax on
 set nu
+set noswapfile
+set nobackup
+set nowritebackup
+set viminfo=
+set clipboard=
