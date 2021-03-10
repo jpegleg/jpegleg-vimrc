@@ -3,3 +3,8 @@ set mouse=r
 colorscheme elflord
 syntax on
 set nu
+set noswapfile
+set nobackup
+set nowritebackup
+set viminfo=
+set clipboard=
