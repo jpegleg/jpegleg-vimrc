@@ -8,4 +8,5 @@ set nobackup
 set nowritebackup
 set viminfo=
 set clipboard=
+# setting tabs within vim to be four spaces
 set tabstop=8 softabstop=0 expandtab shiftwidth=4 smarttab
